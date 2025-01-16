@@ -1,16 +1,16 @@
 # 👋 Welcome to My GitHub Profile!  
 
-Hi, I'm **Rajat Sharma** – an aspiring **Business Analyst** and **Data Analyst** passionate about turning data into actionable insights!  
+- Hi, I'm **Rajat Sharma** – I'am a working professional who started his journey in 2024 into the deep world of data alongside his professional life. Excited for what the future holds!
+- 💻 I'm a aspiring **Data Analyst** and **Data Scientist**
+- I'm constantly exploring innovative ways to analyze and interpret data to solve real-world
 
 ---
 
-## 🔧 Skills  
+# 💻 A Bit About Me
 
-- **Programming:** Python, SQL  
-- **Data Visualization:** Tableau, Matplotlib, Seaborn, Excel Dashboards  
-- **Data Analysis:** EDA, Statistical Analysis  
-- **Tools:** Excel (VBA, Power Query), PowerPoint, Pandas, NumPy  
-- **Key Concepts:** Hypothesis Testing, Confidence Intervals, Central Limit Theorem, Process Automation  
+- 🌱 Currently Learning: Advanced Exploratory Data Analysis (EDA), Machine Learning, and Business Analytics.
+- 🧮 Skills: Python, Tableau, SQL, Matplotlib, Seaborn, Scipy, Excel
+- 🎯 2025 Goals: To crack a Data Analyst/Data Scientist role in 2025 and contribute to impactful, data-driven projects.
 
 ---
 
