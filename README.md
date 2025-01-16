@@ -16,9 +16,10 @@
 
 ## 🌟 Featured Projects  
 
-### 1️⃣ [Sales Analysis Dashboard](#)  
-🚀 *Analyzed Black Friday sales data and created interactive Tableau dashboards.*  
-📌 *Skills Used:* Python, Pandas, Tableau  
+### 1️⃣ [Walmart Customer Insights Analysis](#)  
+🚀 *Analyzed customer patterns with Python (Pandas, Matplotlib, Seaborn, SciPy); optimized 550,000+ entries for memory efficiency; Applied CLT and CI to derive insights on spending by gender, age, and marital
+status; Recommended targeted marketing and engagement strategies based on findings.*  
+📌 *Skills Used:* Python, Pandas, Tableau, CLT, Statistics, Visualisation
 
 ### 2️⃣ [SQL Data Exploration](#)  
 🚀 *Developed SQL queries to analyze e-commerce data and uncover user behavior insights.*  
