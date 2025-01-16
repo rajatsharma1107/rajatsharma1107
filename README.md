@@ -1,16 +1,16 @@
 # 👋 Welcome to My GitHub Profile!  
 
-- Hi, I'm **Rajat Sharma** – I'am a working professional who started his journey in 2024 into the deep world of data alongside his professional life. Excited for what the future holds!
-- 💻 I'm a aspiring **Data Analyst** and **Data Scientist**
-- I'm constantly exploring innovative ways to analyze and interpret data to solve real-world
+- Hi, I'm **Rajat Sharma** – a working professional who started on his data journey in 2024,  combining a passion for data with hands-on professional experience.
+- I'm excited about uncovering insights, solving problems, and exploring the boundless possibilities of data analysis and science.
+- 💻 I'm an aspiring Data Analyst and Data Scientist passionate about transforming data into actionable insights and innovative solutions.
 
 ---
 
 # 💻 A Bit About Me
 
-- 🌱 Currently Learning: Advanced Exploratory Data Analysis (EDA), Machine Learning, and Business Analytics.
+- 🌱 Currently Learning: Advanced Exploratory Data Analysis (EDA), Machine Learning, and Data Science.
 - 🧮 Skills: Python, Tableau, SQL, Matplotlib, Seaborn, Scipy, Excel
-- 🎯 2025 Goals: To crack a Data Analyst/Data Scientist role in 2025 and contribute to impactful, data-driven projects.
+- 🎯 2025 Goals: To secure a Data Analyst or a Data Scientist role in 2025 and contribute to impactful, data-driven projects that make a difference.
 
 ---
 
