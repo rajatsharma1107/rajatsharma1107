@@ -1,6 +1,6 @@
 # 👋 Welcome to My GitHub Profile!  
 
-- Hi, I'm **Rajat Sharma** – a working professional who started on his data journey in 2024,  combining a passion for data with hands-on professional experience.
+- Hi, I'm **Rajat Sharma** – a working professional who started on his data journey in 2024, combining a passion and studying for data alongside his professional experience.
 - I'm excited about uncovering insights, solving problems, and exploring the boundless possibilities of data analysis and science.
 - 💻 I'm an aspiring Data Analyst and Data Scientist passionate about transforming data into actionable insights and innovative solutions.
 
