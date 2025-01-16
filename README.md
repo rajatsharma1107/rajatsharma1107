@@ -14,23 +14,6 @@
 
 ---
 
-## 🌟 Featured Projects  
-
-### 1️⃣ [Walmart Customer Insights Analysis](#)  
-🚀 *Analyzed customer patterns with Python (Pandas, Matplotlib, Seaborn, SciPy); optimized 550,000+ entries for memory efficiency; Applied CLT and CI to derive insights on spending by gender, age, and marital
-status; Recommended targeted marketing and engagement strategies based on findings.*  
-📌 *Skills Used:* Python, Pandas, Numpy, Matplotlib, Seaborn, CLT, Statistics 
-
-### 2️⃣ [Netflix-Data-Analysis-Viewing-Patterns-and-Strategic-Insights](#)  
-🚀 *Analyzed Netflix dataset to uncover trends in user engagement and content performance; Cleaned data, analyzed metrics, and visualized trends to provide actionable insights; Derived insights to inform strategic decisions on content production and audience engagement; Performed EDA, data analysis, and visualization using Python libraries*  
-📌 *Skills Used:* Python, Pandas, Numpy, Matplotlib, Seaborn, Statistics 
-
-### 3️⃣ [Automated Reporting with Excel](#)  
-🚀 *Automated financial reporting processes, saving significant manual effort.*  
-📌 *Skills Used:* Excel, VBA, Data Transformation  
-
----
-
 ## 🛠️ Languages and Tools  
 
 | | | | |
